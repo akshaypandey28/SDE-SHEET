@@ -3,7 +3,7 @@
 
 - [SDE SHEET LINK](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems)
 
-# https://github.com/akshaypandey28/SDE-SHEET.git
+# `https://github.com/akshaypandey28/SDE-SHEET.git`
 
 
 # `Some Important Question`
